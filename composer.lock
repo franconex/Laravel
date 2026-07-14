@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9144407b9276d173a63d179579902647",
+    "content-hash": "ad874bdf2dc08c4892f8a96cdea87203",
     "packages": [
         {
             "name": "brick/math",
@@ -642,16 +642,16 @@
         },
         {
             "name": "guzzlehttp/guzzle",
-            "version": "7.13.3",
+            "version": "7.14.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/guzzle.git",
-                "reference": "caa5491e1030fd120247f42fb3331ecf38da3b26"
+                "reference": "aef242412e13128b5049864867bb49fc37dd39de"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/caa5491e1030fd120247f42fb3331ecf38da3b26",
-                "reference": "caa5491e1030fd120247f42fb3331ecf38da3b26",
+                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/aef242412e13128b5049864867bb49fc37dd39de",
+                "reference": "aef242412e13128b5049864867bb49fc37dd39de",
                 "shasum": ""
             },
             "require": {
@@ -750,7 +750,7 @@
             ],
             "support": {
                 "issues": "https://github.com/guzzle/guzzle/issues",
-                "source": "https://github.com/guzzle/guzzle/tree/7.13.3"
+                "source": "https://github.com/guzzle/guzzle/tree/7.14.0"
             },
             "funding": [
                 {
@@ -766,7 +766,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-07-08T16:10:19+00:00"
+            "time": "2026-07-08T22:54:09+00:00"
         },
         {
             "name": "guzzlehttp/promises",
@@ -1793,16 +1793,16 @@
         },
         {
             "name": "league/mime-type-detection",
-            "version": "1.16.0",
+            "version": "1.17.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/mime-type-detection.git",
-                "reference": "2d6702ff215bf922936ccc1ad31007edc76451b9"
+                "reference": "f5f47eff7c48ed1003069a2ca67f316fb4021c76"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/mime-type-detection/zipball/2d6702ff215bf922936ccc1ad31007edc76451b9",
-                "reference": "2d6702ff215bf922936ccc1ad31007edc76451b9",
+                "url": "https://api.github.com/repos/thephpleague/mime-type-detection/zipball/f5f47eff7c48ed1003069a2ca67f316fb4021c76",
+                "reference": "f5f47eff7c48ed1003069a2ca67f316fb4021c76",
                 "shasum": ""
             },
             "require": {
@@ -1812,7 +1812,7 @@
             "require-dev": {
                 "friendsofphp/php-cs-fixer": "^3.2",
                 "phpstan/phpstan": "^0.12.68",
-                "phpunit/phpunit": "^8.5.8 || ^9.3 || ^10.0"
+                "phpunit/phpunit": "^8.5.8 || ^9.3 || ^10.0 || ^11.0 || ^12.0"
             },
             "type": "library",
             "autoload": {
@@ -1833,7 +1833,7 @@
             "description": "Mime-type detection for Flysystem",
             "support": {
                 "issues": "https://github.com/thephpleague/mime-type-detection/issues",
-                "source": "https://github.com/thephpleague/mime-type-detection/tree/1.16.0"
+                "source": "https://github.com/thephpleague/mime-type-detection/tree/1.17.0"
             },
             "funding": [
                 {
@@ -1845,7 +1845,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-09-21T08:32:55+00:00"
+            "time": "2026-07-09T11:49:27+00:00"
         },
         {
             "name": "league/uri",
@@ -2134,16 +2134,16 @@
         },
         {
             "name": "nesbot/carbon",
-            "version": "3.13.0",
+            "version": "3.13.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CarbonPHP/carbon.git",
-                "reference": "40f6618f052df16b545f626fbf9a878e6497d16a"
+                "reference": "2937ad3d1d2c506fd2bc97d571438a95641f44e2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CarbonPHP/carbon/zipball/40f6618f052df16b545f626fbf9a878e6497d16a",
-                "reference": "40f6618f052df16b545f626fbf9a878e6497d16a",
+                "url": "https://api.github.com/repos/CarbonPHP/carbon/zipball/2937ad3d1d2c506fd2bc97d571438a95641f44e2",
+                "reference": "2937ad3d1d2c506fd2bc97d571438a95641f44e2",
                 "shasum": ""
             },
             "require": {
@@ -2235,7 +2235,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-06-18T13:49:15+00:00"
+            "time": "2026-07-09T18:23:49+00:00"
         },
         {
             "name": "nette/schema",
@@ -6649,146 +6649,6 @@
             "time": "2026-04-29T18:32:34+00:00"
         },
         {
-            "name": "laravel/boost",
-            "version": "v2.4.11",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/laravel/boost.git",
-                "reference": "c98fc9d151de97a1864b51fc7c710fc03023ba17"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/laravel/boost/zipball/c98fc9d151de97a1864b51fc7c710fc03023ba17",
-                "reference": "c98fc9d151de97a1864b51fc7c710fc03023ba17",
-                "shasum": ""
-            },
-            "require": {
-                "guzzlehttp/guzzle": "^7.9",
-                "illuminate/console": "^11.45.3|^12.41.1|^13.0",
-                "illuminate/contracts": "^11.45.3|^12.41.1|^13.0",
-                "illuminate/routing": "^11.45.3|^12.41.1|^13.0",
-                "illuminate/support": "^11.45.3|^12.41.1|^13.0",
-                "laravel/mcp": "^0.7.1|^0.8.0",
-                "laravel/prompts": "^0.3.10",
-                "laravel/roster": "^0.5.0",
-                "php": "^8.2"
-            },
-            "require-dev": {
-                "laravel/pint": "^1.27.0",
-                "mockery/mockery": "^1.6.12",
-                "orchestra/testbench": "^9.15.0|^10.6|^11.0",
-                "pestphp/pest": "^2.36.0|^3.8.4|^4.1.5",
-                "phpstan/phpstan": "^2.1.27",
-                "rector/rector": "^2.1"
-            },
-            "type": "library",
-            "extra": {
-                "laravel": {
-                    "providers": [
-                        "Laravel\\Boost\\BoostServiceProvider"
-                    ]
-                },
-                "branch-alias": {
-                    "dev-master": "1.x-dev"
-                }
-            },
-            "autoload": {
-                "psr-4": {
-                    "Laravel\\Boost\\": "src/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "description": "Laravel Boost accelerates AI-assisted development by providing the essential context and structure that AI needs to generate high-quality, Laravel-specific code.",
-            "homepage": "https://github.com/laravel/boost",
-            "keywords": [
-                "ai",
-                "dev",
-                "laravel"
-            ],
-            "support": {
-                "issues": "https://github.com/laravel/boost/issues",
-                "source": "https://github.com/laravel/boost"
-            },
-            "time": "2026-06-26T08:21:49+00:00"
-        },
-        {
-            "name": "laravel/mcp",
-            "version": "v0.8.2",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/laravel/mcp.git",
-                "reference": "0c32bf369c6432cab21458f9f4479da33a49ba37"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/laravel/mcp/zipball/0c32bf369c6432cab21458f9f4479da33a49ba37",
-                "reference": "0c32bf369c6432cab21458f9f4479da33a49ba37",
-                "shasum": ""
-            },
-            "require": {
-                "ext-json": "*",
-                "ext-mbstring": "*",
-                "illuminate/console": "^11.45.3|^12.41.1|^13.0",
-                "illuminate/container": "^11.45.3|^12.41.1|^13.0",
-                "illuminate/contracts": "^11.45.3|^12.41.1|^13.0",
-                "illuminate/http": "^11.45.3|^12.41.1|^13.0",
-                "illuminate/json-schema": "^12.41.1|^13.0",
-                "illuminate/routing": "^11.45.3|^12.41.1|^13.0",
-                "illuminate/support": "^11.45.3|^12.41.1|^13.0",
-                "illuminate/validation": "^11.45.3|^12.41.1|^13.0",
-                "php": "^8.2",
-                "symfony/process": "^7.4.5|^8.0.5"
-            },
-            "require-dev": {
-                "laravel/pint": "^1.20",
-                "orchestra/testbench": "^9.15|^10.8|^11.0",
-                "pestphp/pest": "^3.8.5|^4.3.2",
-                "phpstan/phpstan": "^2.1.27",
-                "rector/rector": "^2.2.4"
-            },
-            "type": "library",
-            "extra": {
-                "laravel": {
-                    "aliases": {
-                        "Mcp": "Laravel\\Mcp\\Facades\\Mcp"
-                    },
-                    "providers": [
-                        "Laravel\\Mcp\\Server\\McpServiceProvider"
-                    ]
-                }
-            },
-            "autoload": {
-                "psr-4": {
-                    "Laravel\\Mcp\\": "src/",
-                    "Laravel\\Mcp\\Server\\": "src/Server/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Taylor Otwell",
-                    "email": "taylor@laravel.com"
-                }
-            ],
-            "description": "Rapidly build MCP servers for your Laravel applications.",
-            "homepage": "https://github.com/laravel/mcp",
-            "keywords": [
-                "laravel",
-                "mcp"
-            ],
-            "support": {
-                "issues": "https://github.com/laravel/mcp/issues",
-                "source": "https://github.com/laravel/mcp"
-            },
-            "time": "2026-06-25T14:00:45+00:00"
-        },
-        {
             "name": "laravel/pail",
             "version": "v1.2.7",
             "source": {
@@ -7020,67 +6880,6 @@
                 "source": "https://github.com/laravel/pint"
             },
             "time": "2026-06-16T15:34:04+00:00"
-        },
-        {
-            "name": "laravel/roster",
-            "version": "v0.5.1",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/laravel/roster.git",
-                "reference": "5089de7615f72f78e831590ff9d0435fed0102bb"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/laravel/roster/zipball/5089de7615f72f78e831590ff9d0435fed0102bb",
-                "reference": "5089de7615f72f78e831590ff9d0435fed0102bb",
-                "shasum": ""
-            },
-            "require": {
-                "illuminate/console": "^11.0|^12.0|^13.0",
-                "illuminate/contracts": "^11.0|^12.0|^13.0",
-                "illuminate/routing": "^11.0|^12.0|^13.0",
-                "illuminate/support": "^11.0|^12.0|^13.0",
-                "php": "^8.2",
-                "symfony/yaml": "^7.2|^8.0"
-            },
-            "require-dev": {
-                "laravel/pint": "^1.14",
-                "mockery/mockery": "^1.6",
-                "orchestra/testbench": "^9.0|^10.0|^11.0",
-                "pestphp/pest": "^3.0|^4.1",
-                "phpstan/phpstan": "^2.0"
-            },
-            "type": "library",
-            "extra": {
-                "laravel": {
-                    "providers": [
-                        "Laravel\\Roster\\RosterServiceProvider"
-                    ]
-                },
-                "branch-alias": {
-                    "dev-master": "1.x-dev"
-                }
-            },
-            "autoload": {
-                "psr-4": {
-                    "Laravel\\Roster\\": "src/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "description": "Detect packages & approaches in use within a Laravel project",
-            "homepage": "https://github.com/laravel/roster",
-            "keywords": [
-                "dev",
-                "laravel"
-            ],
-            "support": {
-                "issues": "https://github.com/laravel/roster/issues",
-                "source": "https://github.com/laravel/roster"
-            },
-            "time": "2026-03-05T07:58:43+00:00"
         },
         {
             "name": "mockery/mockery",
@@ -9522,82 +9321,6 @@
                 }
             ],
             "time": "2024-10-20T05:08:20+00:00"
-        },
-        {
-            "name": "symfony/yaml",
-            "version": "v8.1.1",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/symfony/yaml.git",
-                "reference": "8e4cdd4311683516be06944f4b85244063cdb886"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/symfony/yaml/zipball/8e4cdd4311683516be06944f4b85244063cdb886",
-                "reference": "8e4cdd4311683516be06944f4b85244063cdb886",
-                "shasum": ""
-            },
-            "require": {
-                "php": ">=8.4.1",
-                "symfony/polyfill-ctype": "^1.8"
-            },
-            "conflict": {
-                "symfony/console": "<7.4"
-            },
-            "require-dev": {
-                "symfony/console": "^7.4|^8.0",
-                "yaml/yaml-test-suite": "*"
-            },
-            "bin": [
-                "Resources/bin/yaml-lint"
-            ],
-            "type": "library",
-            "autoload": {
-                "psr-4": {
-                    "Symfony\\Component\\Yaml\\": ""
-                },
-                "exclude-from-classmap": [
-                    "/Tests/"
-                ]
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Fabien Potencier",
-                    "email": "fabien@symfony.com"
-                },
-                {
-                    "name": "Symfony Community",
-                    "homepage": "https://symfony.com/contributors"
-                }
-            ],
-            "description": "Loads and dumps YAML files",
-            "homepage": "https://symfony.com",
-            "support": {
-                "source": "https://github.com/symfony/yaml/tree/v8.1.1"
-            },
-            "funding": [
-                {
-                    "url": "https://symfony.com/sponsor",
-                    "type": "custom"
-                },
-                {
-                    "url": "https://github.com/fabpot",
-                    "type": "github"
-                },
-                {
-                    "url": "https://github.com/nicolas-grekas",
-                    "type": "github"
-                },
-                {
-                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                    "type": "tidelift"
-                }
-            ],
-            "time": "2026-06-09T11:06:24+00:00"
         },
         {
             "name": "ta-tikoma/phpunit-architecture-test",
