@@ -25,8 +25,12 @@ Breve descripción del proyecto.
 | <img src="docs/imagenes/mockups/landipage diseño.png" width="300" alt="Landing Mockup"> | <img src="docs/imagenes/mockups/login diseño.png" width="300" alt="Login Mockup"> |
 
 | Administración | Recepción |
-|---|---|
+|---|---|---|
 | <img src="docs/imagenes/mockups/admin diseño.jpeg" width="300" alt="Admin Mockup"> | <img src="docs/imagenes/mockups/recepcion diseño.jpeg" width="300" alt="Recepción Mockup"> |
+
+| Gerencia y Gestión Comercial |
+|---|
+| <img src="docs/imagenes/mockups/gerencia y gestion comercial.jpeg" width="300" alt="Gerencia Mockup"> |
 
 ---
 
