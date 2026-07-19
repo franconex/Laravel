@@ -15,7 +15,9 @@ Breve descripción del proyecto.
 | Administración | Recepción |
 |---|---|
  | <img src="docs/imagenes/wireframes/admin%20boseto.jpeg" width="300" alt="Admin Wireframe"> | <img src="docs/imagenes/wireframes/recepcion%20boseto.jpeg" width="300" alt="Recepción Wireframe"> |
-
+| Reportes (Detalle de Reparación) | |
+|---|---|
+ | <img src="docs/imagenes/wireframes/reportedetalleboseto.png" width="300" alt="Reporte Detalle Wireframe"> | |
 ---
 
 ## Diseño (Mockups)
@@ -31,6 +33,10 @@ Breve descripción del proyecto.
 ### Gerencia y Gestión Comercial
 
 <img src="docs/imagenes/mockups/gerencia%20y%20gestion%20comercial.jpeg" width="600" alt="Gerencia y Gestión Comercial Mockup">
+
+### Reportes (Detalle de Reparación)
+
+<img src="docs/imagenes/mockups/reportedetallediseño.png" width="600" alt="Reporte Detalle Mockup">
 
 ---
 
